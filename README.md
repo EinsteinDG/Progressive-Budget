@@ -27,7 +27,7 @@ Deployed App: https://the-progressive-budget-app.herokuapp.com/
 
 An example screenshot of the application is below.
 
-![screenshot](assets/screenshot.jpg)
+![screenshot](assets/screenshot.png)
 
 ## License
 
